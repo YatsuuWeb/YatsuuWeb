@@ -48,12 +48,12 @@ Languages  :  Python
 
 
 
-- <p align="center"><img align="center" alt="Kyoto-yoda" src="https://cdn.discordapp.com/emojis/889650324590198844.gif?size=40">  
+- <p align="center"><img align="center" alt="yatsuu Web" src="https://cdn.discordapp.com/emojis/889650324590198844.gif?size=40">  
 - <p align="center"> Hi, I’m @Yatsuu
 
 -----------------
 
 <!---
-Kyoto1337/KyotoWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yatsuu Web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
