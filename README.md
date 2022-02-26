@@ -1,3 +1,7 @@
+<center>
+	<p align="middle">
+<img src="https://cdn.discordapp.com/attachments/929390080425066557/947275087936102501/anonymous-gif.gif" data-canonical-src="https://i.imgur.com/i3r2p1b.gif?noredirect" style="max-width: 100%;">
+<p align="middle">
 
 
 <center>
@@ -9,7 +13,7 @@
 > neofetch
 
 ```
-<img src="https://cdn.discordapp.com/attachments/941304235788738560/941419317168324709/254496e8a6a061ae13496bdd68068b67.gif" align="left" src="https://i.pinimg.com/originals/96/a0/fc/96a0fce84427fedab035cc02f68332a3.jpg" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="https://cdn.discordapp.com/attachments/929390080425066557/947272777918992434/anonymous-hacker.gif" align="left" src="https://i.pinimg.com/originals/96/a0/fc/96a0fce84427fedab035cc02f68332a3.jpg" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
