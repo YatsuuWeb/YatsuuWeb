@@ -1,8 +1,9 @@
-<center>
-	<p align="middle">
-<img src="https://cdn.discordapp.com/attachments/929390080425066557/947275087936102501/anonymous-gif.gif" data-canonical-src="https://i.imgur.com/i3r2p1b.gif?noredirect" style="max-width: 100%;">
-<p align="middle">
-
+<p align='center'>
+  <b>Hi 👋, I'm Yatsuu Web</b><br>
+  <a href="https://discord.gg/HYCG85qyJE">Discord</a> |
+  <a href="https://www.youtube.com/channel/UCzB_8wDO6PXE9F_jGzCndHg">YouTube</a> ||
+  <a href="https://yatsuuweb.000webhostapp.com/">Web</a>
+</p>
 
 <center>
 
@@ -52,8 +53,7 @@ Languages  :  Python
 
 
 
-- <p align="center"><img align="center" alt="yatsuu Web" src="https://cdn.discordapp.com/emojis/889650324590198844.gif?size=40">  
-- <p align="center"> Hi, I’m @Yatsuu
+- <p align="center"><img align="center" alt="yatsuu Web" src="
 
 -----------------
 
