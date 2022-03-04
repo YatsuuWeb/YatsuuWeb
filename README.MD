@@ -1,4 +1,8 @@
-
+<p align='center'>
+  <b>Hi 👋, I'm Kaneki</b><br>
+  <a href="https://discord.gg/bdUM6SbEpJ">Discord</a> |
+  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
+  <a href="https://yatsuuweb.000webhostapp.com/">Web</a> |
 
 
 
@@ -46,7 +50,8 @@ Languages  :  Python
 
 
 
-- <p align="center"><img align="center" alt="Yatsuu Web" src="https://cdn.discordapp.com/emojis/889650324590198844.gif?size=40">  
+
+------------												
 - <p align="center"> Hi, I’m @YATSUU
 
 -----------------
