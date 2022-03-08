@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm Kaneki</b><br>
+  <b>Hi 👋, I'm Yatsuu</b><br>
   <a href="https://discord.gg/HYCG85qyJE">Discord</a> |
   <a href="https://www.youtube.com/channel/UCzB_8wDO6PXE9F_jGzCndHg">YouTube</a> |
   <a href="https://yatsuuweb.000webhostapp.com/">Web</a> |
